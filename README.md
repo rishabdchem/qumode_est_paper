@@ -36,10 +36,13 @@ VQE Codes:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qumode_est_paper/blob/main/h4mol_snap_vqe.ipynb) | SNAP-VQE Code for the H4 Molecule
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qumode_est_paper/blob/main/UCCSD_VQE_H4.ipynb) | UCCSD-VQE Code for the H4 Molecule
 
 Parameter Data:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qumode_est_paper/blob/main/h2mol_params.ipynb) | Parameter Data for the H2 Molecule
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabdchem/qumode_est_paper/blob/main/h4mol_params.ipynb) | Parameter Data for the H4 Molecule
 
 
 Visualization Codes:
