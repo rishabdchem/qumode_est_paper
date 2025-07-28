@@ -53,29 +53,24 @@ Visualization Codes:
 
 ## Citation <a name="citation"></a>
 
-Please cite the preprint of our work when using this code until the journal version becomes available.
-
-[![Static Badge](https://img.shields.io/badge/2404.10222-B31B1B?logo=arxiv&logoColor=B31B1B&label=quant-ph)](https://arxiv.org/abs/2404.10222)
-
 ```
-@misc{dutta2024simulatingelectronicstructurebosonic,
-      title={Simulating electronic structure on bosonic quantum computers}, 
-      author={Rishab Dutta and Nam P. Vu and Chuzhi Xu and Ningyi Lyu and Alexander V. Soudackov and Xiaohan Dan and Haote Li and Chen Wang and Victor S. Batista},
-      year={2024},
-      eprint={2404.10222},
-      archivePrefix={arXiv},
-      primaryClass={quant-ph},
-      url={https://arxiv.org/abs/2404.10222}, 
+@article{dutta2025simulating,
+  title={Simulating electronic structure on bosonic quantum computers},
+  author={Dutta, Rishab and Vu, Nam P and Xu, Chuzhi and Cabral, Delmar GA and Lyu, Ningyi and Soudackov, Alexander V and Dan, Xiaohan and Li, Haote and Wang, Chen and Batista, Victor S},
+  journal={Journal of Chemical Theory and Computation},
+  volume={21},
+  number={5},
+  pages={2281--2300},
+  year={2025},
+  publisher={ACS Publications}
 }
 ```
-
 
 ## Contact <a name="contact"></a>
 
 For questions, comments, or support, please contact:
 
-Rishab Dutta (rishab.dutta@yale.edu)
-
+Rishab Dutta (rishab.dutta@pnnl.gov)
 
 
 ## License <a name="license"></a>
